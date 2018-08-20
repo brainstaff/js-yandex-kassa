@@ -1,5 +1,5 @@
 {
-    "name": "@brainstaff/rbac-yandex-kassa",
+    "name": "@brainstaff/yandex-kassa",
     "version": "1.0.0-beta.1",
     "description": "Yandex.Kassa helper library.",
     "main": "dist/index.js",
