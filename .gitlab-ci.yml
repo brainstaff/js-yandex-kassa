@@ -1,0 +1,10 @@
+image: node:10.7
+build:
+  script:
+  - yarn install
+  - yarn build
+test:
+  script:
+  - yarn install
+  - yarn build
+  - yarn test
